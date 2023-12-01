@@ -56,3 +56,4 @@
 /Users/rhys/code/whatsForDinnerC-/BlazorApp/obj/Debug/net8.0/BlazorApp.pdb
 /Users/rhys/code/whatsForDinnerC-/BlazorApp/obj/Debug/net8.0/BlazorApp.genruntimeconfig.cache
 /Users/rhys/code/whatsForDinnerC-/BlazorApp/obj/Debug/net8.0/ref/BlazorApp.dll
+/Users/rhys/code/whatsForDinnerC-/BlazorApp/obj/Debug/net8.0/BlazorApp.sourcelink.json
